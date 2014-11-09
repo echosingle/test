@@ -1,6 +1,6 @@
 <?php
 
-echo "My name is Nikita";
+echo "My name is Nikita, lol";
 
 
 ?>
